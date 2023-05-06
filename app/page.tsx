@@ -13,7 +13,7 @@ export default function Home() {
 
       <div>
         <section id="about" className='relative overflow-hidden min-h-[600px] bg-primary py-32'>
-          <Image className='absolute bottom-0 left-1/2 translate-x-[-120%] w-auto min-h-[70%] max-h-[500px]' src="/about-us.png" width={900} height={512} alt="about" />
+          <Image className='absolute bottom-0 left-1/2 translate-x-[-120%] w-auto min-h-[70%] max-h-[500px]' src="/images/about-us.png" width={900} height={512} alt="about" />
           <div className='container'>
             <div className='grid md:grid-cols-2 gap-10'>
               <div></div>

@@ -98,7 +98,7 @@ export const Navigation = () => {
                   <Image
                     width={100}
                     height={80}
-                    src="/logo.png"
+                    src="/images/logo.png"
                     alt="Cyanide Token"
                   />
 
