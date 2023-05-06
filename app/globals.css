@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-poppins) !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: 700 !important
+}
+
+p {
+  font-family: var(--font-poppins) !important;
+  font-family: 'Poppins', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #FFD166;
+  border-radius: 10px;
+  transition: all .25s ease-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FFD166;
+  opacity: 1
+}
