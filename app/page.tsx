@@ -83,7 +83,7 @@ export default function Home() {
 
                 <p className='text-xl'>No Taxes, No Bullshit. It&lsquo;s that simple.</p>
 
-                <p className='text-xl'>85% of the entire supply is been send to the LP and thus in hands of our community.</p>
+                <p className='text-xl'>85% of entire token supply has been sent to the LP and this in the hands of the community</p>
 
                 <p className='text-xl'>LP Tokens where burned, the contract renounced.</p>
 
@@ -101,7 +101,7 @@ export default function Home() {
               <h3 className="mt-10 text-4xl font-black uppercase tracking-tight text-primary sm:text-6xl">$CYAN Roadmap</h3>
 
               <div className='w-6/12 text-xl'>
-                On thing we don&lsquo;t MEME about with <span className='text-primary'>$CYAN</span> is our path forward. Since the founders don&lsquo;t want to givaway to much, here a draft of what&lsquo;s coming ;)
+                One thing we don&lsquo;t MEME about with <span className='text-primary'>$CYAN</span> is our path forward. Since the founders don&lsquo;t want to givaway to much, here a draft of what&lsquo;s coming ;)
               </div>
             </div>
             <div className='grid md:grid-cols-3 gap-10 text-center'>
@@ -127,7 +127,7 @@ export default function Home() {
               <div>
                 <h4 className='text-2xl uppercase font-black text-primary'>Phase 3</h4>
                 <ul className='mt-8 text-xl'>
-                  <li>Get treding <span className="text-primary">$CYAN</span> on different T1 sites</li>
+                  <li>Get trading <span className="text-primary">$CYAN</span> on different T1 sites</li>
                   <li><span className="text-primary">$CYAN</span> MEME dApp</li>
                   <li>T1 Exchange Listings 100,000+ holders</li>
                   <li>Meme Takeover</li>
