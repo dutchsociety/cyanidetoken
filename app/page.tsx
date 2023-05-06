@@ -24,10 +24,10 @@ export default function Home() {
                 </h1>
 
                 <p className='text-xl'>
-                  Are you a sucker for Cyanide & Happiness? Or just mad becaus you fucking missed PepeShibaCumGMElonKishuTurboAssFlokiMoon? Don't worry, Cyanide got your back. This is your chance in joining the most mememic, iconic community out there. Togehter we are strong, together we going to dominate the Web3 Space and take of Social Media. JOIN THE CULT.
+                  Are you a sucker for Cyanide & Happiness? Or just mad becaus you fucking missed PepeShibaCumGMElonKishuTurboAssFlokiMoon? Don&lsquo;t worry, Cyanide got your back. This is your chance in joining the most mememic, iconic community out there. Togehter we are strong, together we going to dominate the Web3 Space and take of Social Media. JOIN THE CULT.
                 </p>
                 <p className='text-xl'>
-                  <span className='text-gold'>$CYAN</span> is here to bring a new ERA of MEMEcoins. We are the FIRSY and ONLY MEME that will bring real utility by dropping a MEME dApp to our amazing community shortly. Also be ready for our upcoming NFT collection. You definitely don't want to miss out on that one, because that will change your life.
+                  <span className='text-gold'>$CYAN</span> is here to bring a new ERA of MEMEcoins. We are the FIRSY and ONLY MEME that will bring real utility by dropping a MEME dApp to our amazing community shortly. Also be ready for our upcoming NFT collection. You definitely don&lsquo;t want to miss out on that one, because that will change your life.
                 </p>
               </div>
             </div>
