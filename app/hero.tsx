@@ -43,7 +43,7 @@ export default function Hero() {
             </div>
             <div className="mt-20 sm:mt-24 ml-auto">
 
-                <Image src={"/fuck-shibfloki.png"} width={458} height={546} alt="Hero" />
+                <Image src={"/images/fuck-shibfloki.png"} width={458} height={546} alt="Hero" />
 
             </div>
         </div>
