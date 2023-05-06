@@ -13,8 +13,8 @@ const poppins = Poppins({
 })
 
 export const metadata = {
-  title: 'Cyanide & Happiness Launches $CYAN Token on Binance Smart Chain',
-  description: 'Discover $CYAN, the new token launched by Cyanide & Happiness on Binance Smart Chain. Join our community and experience the joy and humor of our popular webcomic in a whole new way. Get exclusive access to content, merchandise, and events as a $CYAN holder. Learn more about our vision and stay up-to-date with the latest news and updates on our website.',
+  title: 'Cyanide Launches $CYAN Token on Binance Smart Chain | Cyanide $CYAN',
+  description: 'Discover $CYAN, the new token launched by a no formal team and roadmap on Binance Smart Chain. Join our community and experience the joy and humor of our popular webcomic in a whole new way. Get exclusive access to content, merchandise, and events as a $CYAN holder. Learn more about our vision and stay up-to-date with the latest news and updates on our website.',
   keywords: 'Binance Smart Chain, $CYAN,Cyanide & Happiness,Cryptocurrency,Blockchain,Decentralized Finance (DeFi),Tokenomics,Meme tokens,Moonshot,Investing,Trading,HODL,Altcoins,Crypto market,Digital assets,NFTs,Community, ROI, Yield farming, Liquidity mining.',
 }
 
