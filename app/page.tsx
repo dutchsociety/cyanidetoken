@@ -48,7 +48,7 @@ export default function Home() {
                 </div>
                 <div className='bg-secondarydark border-4 border-primary rounded-2xl p-4 md:p-12 text-white space-y-4'>
 
-                  <p className='text-2xl uppercase'>Get Some ETH</p>
+                  <p className='text-2xl uppercase'>Get Some BNB</p>
 
                   <p className='text-xl'>Have BNB in your wallet to switch to <span className="text-primary">$CYAN</span>. If you don&lsquo;t have any BNB, you can buy directly on MetaMask, transfer from another wallet, or buy on another exchange and send it to your wallet.</p>
                 </div>
@@ -60,7 +60,7 @@ export default function Home() {
                 </div>
                 <div className='bg-secondarydark border-4 border-primary rounded-2xl p-4 md:p-12 text-white space-y-4'>
 
-                  <p className='text-2xl uppercase'>Switch ETH for $CYAN</p>
+                  <p className='text-2xl uppercase'>Switch BNB for <span className="text-primary">$CYAN</span></p>
 
                   <p className='text-xl'>Switch BNB for <span className="text-primary">$CYAN</span>. We have ZERO taxes so you don&lsquo;t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.</p>
                 </div>
