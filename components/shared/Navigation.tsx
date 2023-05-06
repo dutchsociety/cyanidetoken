@@ -47,7 +47,7 @@ export const Navigation = () => {
               leaveFrom="translate-x-0"
               leaveTo="-translate-x-full"
             >
-              <Dialog.Panel className="relative max-w-xs w-full shadow-xl pb-12 flex flex-col justify-between overflow-y-auto bg-darkblue">
+              <Dialog.Panel className="relative max-w-xs w-full shadow-xl pb-12 flex flex-col justify-between overflow-y-auto bg-secondarydark z-30">
                 <div className="px-4 pt-5 pb-2 flex justify-end">
                   <button
                     type="button"
@@ -73,7 +73,7 @@ export const Navigation = () => {
                         href={page.href}
                         className={`${page.href === isActive
                           ? "text-primary"
-                          : "text-secondary"
+                          : "text-gold"
                           } hover:text-primary font-black uppercase`}
                           onClick={() => { setOpen(false) }}
                       >
@@ -125,7 +125,7 @@ export const Navigation = () => {
                   </div>
                 </Popover.Group>
               </div>
-              <div className="flex items-end lg:hidden ml-2">
+              <div className="flex items-end lg:hidden ml-auto">
                 <button
                   type="button"
                   className="-ml-2 p-2 rounded-md text-white"

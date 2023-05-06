@@ -15,13 +15,13 @@ export const Footer = () => {
             id="newsletter"
         >
             <div className="container py-16">
-                <div className="mx-auto w-6/12 space-y-8 text-center">
+                <div className="mx-auto md:w-6/12 space-y-8 text-center">
                     
                     <p className="text-xl text-white"><span className="text-primary">$CYAN</span> coin has no association with Explosm or their creation Cyanide & Happiness. This tokens put the stories from Cyanide in the spotlights and will bring a smile on everyones face watching the series.</p>
 
                     <p className="text-xl text-white">$CYAN is a meme coin and is here to build a community of cyanide lovers with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.</p>
                 </div>
-                <div className="md:grid grid-cols-3 md:gap-8">
+                <div className="md:grid grid-cols-3 md:gap-8 mt-8 md:mt-0">
                     <div className="flex items-center justify-center md:justify-start md:items-start">
                         <div>
                             <Image

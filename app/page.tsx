@@ -13,7 +13,7 @@ export default function Home() {
 
       <div>
         <section id="about" className='relative overflow-hidden min-h-[600px] bg-primary py-32'>
-          <Image className='absolute bottom-0 left-1/2 translate-x-[-120%] w-auto min-h-[70%] max-h-[500px]' src="/images/about-us.png" width={900} height={512} alt="about" />
+          <Image className='md:absolute md:bottom-0 md:left-1/2 md:translate-x-[-120%] w-auto min-h-[70%] max-h-[500px]' src="/images/about-us.png" width={900} height={512} alt="about" />
           <div className='container'>
             <div className='grid md:grid-cols-2 gap-10'>
               <div></div>
@@ -23,8 +23,8 @@ export default function Home() {
                   About Cyanide token
                 </h1>
 
-                <p className='text-xl'>
-                  Are you a sucker for Cyanide & Happiness? Or just mad because you fucking missed PepeShibaCumGMElonKishuTurboAssFlokiMoon? Don&lsquo;t worry, Cyanide got your back. This is your chance in joining the most mememic, iconic community out there. Togehter we are strong, together we going to dominate the Web3 Space and take of Social Media. JOIN THE CULT.
+                <p className='text-xl break-words'>
+                  Are you a sucker for Cyanide & Happiness? Or just mad because you fucking missed <span className="break-words">PepeShibaCumGMElonKishuTurboAssMoon?</span> Don&lsquo;t worry, Cyanide got your back. This is your chance in joining the most mememic, iconic community out there. Togehter we are strong, together we going to dominate the Web3 Space and take of Social Media. JOIN THE CULT.
                 </p>
                 <p className='text-xl'>
                   <span className='text-gold'>$CYAN</span> is here to bring a new ERA of MEMEcoins. We are the FIRSY and ONLY MEME that will bring real utility by dropping a MEME dApp to our amazing community shortly. Also be ready for our upcoming NFT collection. You definitely don&lsquo;t want to miss out on that one, because that will change your life.

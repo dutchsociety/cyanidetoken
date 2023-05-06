@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export default function Hero() {
     return (
-        <div className="relative flex items-center justify-center isolate overflow-hidden">
+        <div className="relative md:flex items-center justify-center isolate overflow-hidden pt-32 md:pt-0">
 
             <div className="px-6 lg:px-0 lg:pt-4">
                 <div className="mx-auto max-w-2xl">
