@@ -96,13 +96,14 @@ export const Navigation = () => {
               <div className="w-20 lg:w-auto lg:flex-1 lg:items-center">
                 <Link href="/" className="flex items-center cursor-pointer">
                   <Image
+                  className="w-[80%] xl:w-auto"
                     width={100}
                     height={80}
                     src="/images/logo.png"
                     alt="Cyanide Token"
                   />
 
-                  <span className="font-black uppercase text-gold text-6xl ml-2">Cyanide</span>
+                  <span className="font-black uppercase text-gold text-4xl md:text-6xl ml-2">Cyanide</span>
                 </Link>
               </div>
 

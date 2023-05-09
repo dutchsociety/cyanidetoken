@@ -24,7 +24,7 @@ export default function Home() {
                 </h1>
 
                 <p className='text-xl break-words'>
-                  Are you a sucker for Cyanide & Happiness? Or just mad because you fucking missed <span className="break-words">PepeShibaCumGMElonKishuTurboAssMoon?</span> Don&lsquo;t worry, Cyanide got your back. This is your chance in joining the most mememic, iconic community out there. Togehter we are strong, together we going to dominate the Web3 Space and take of Social Media. JOIN THE CULT.
+                  Are you a sucker for Cyanide & Happiness? Or just mad because you fucking missed <span className="break-words">PepeShibFlok-kenAssMoon?</span> Don&lsquo;t worry, Cyanide got your back. This is your chance in joining the most mememic, iconic community out there. Togehter we are strong, together we going to dominate the Web3 Space and take of Social Media. JOIN THE CULT.
                 </p>
                 <p className='text-xl'>
                   <span className='text-gold'>$CYAN</span> is here to bring a new ERA of MEMEcoins. We are the FIRSY and ONLY MEME that will bring real utility by dropping a MEME dApp to our amazing community shortly. Also be ready for our upcoming NFT collection. You definitely don&lsquo;t want to miss out on that one, because that will change your life.
@@ -100,7 +100,7 @@ export default function Home() {
             <div className='flex flex-col justify-center items-center text-center space-y-8'>
               <h3 className="mt-10 text-4xl font-black uppercase tracking-tight text-primary sm:text-6xl">$CYAN Roadmap</h3>
 
-              <div className='w-6/12 text-xl'>
+              <div className='md:w-6/12 text-xl'>
                 One thing we don&lsquo;t MEME about with <span className='text-primary'>$CYAN</span> is our path forward. Since the founders don&lsquo;t want to givaway to much, here a draft of what&lsquo;s coming ;)
               </div>
             </div>
@@ -127,7 +127,7 @@ export default function Home() {
               <div>
                 <h4 className='text-2xl uppercase font-black text-primary'>Phase 3</h4>
                 <ul className='mt-8 text-xl'>
-                  <li>Get trading <span className="text-primary">$CYAN</span> on different T1 sites</li>
+                  <li>Trading <span className="text-primary">$CYAN</span> on T1 Sites</li>
                   <li><span className="text-primary">$CYAN</span> MEME dApp</li>
                   <li>T1 Exchange Listings 100,000+ holders</li>
                   <li>Meme Takeover</li>
