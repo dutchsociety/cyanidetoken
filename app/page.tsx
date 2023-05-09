@@ -77,7 +77,7 @@ export default function Home() {
             <div className='grid md:grid-cols-2 gap-10 mt-20'>
               <div className='text-2xl text-center'>
                 Token Supply:<br />
-                69.669.669.696.969
+                400.000.000.000.000
               </div>
               <div className='space-y-8'>
 
@@ -85,7 +85,7 @@ export default function Home() {
 
                 <p className='text-xl'>85% of entire token supply has been sent to the LP and this in the hands of the community</p>
 
-                <p className='text-xl'>LP Tokens where burned, the contract renounced.</p>
+                <p className='text-xl'>LP Tokens where burned.</p>
 
                 <p className='text-xl'>10% is being used for Dex and Cex listings</p>
 
